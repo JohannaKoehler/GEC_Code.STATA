@@ -1,10 +1,10 @@
 
-*** Code to accompany "Behaviour Change in Waterpoint Management in coastal Kenya"
+*** Code to accompany 'Water cultures, user behaviour and institutional change for delivering the water SDG'
 *** Includes code for the regression models, the marginal effects calculations and plots. 
 *** The required files that accompany the code are not included here. Those interested in accessing the required files should contact the lead author.
 
 
-***Model 1 - individual household level intent to sign up
+***Model 1 - individual household level intent to contract (sign up)
 
 *** Read in the file on household level data
 
@@ -41,7 +41,7 @@ marginsplot, noci
 
 
 
-***Model 2 - waterpoint user group level sign-up 
+***Model 2 - waterpoint user group level contract commitment
 
 *** Read in the file on waterpoint user group level data
 
