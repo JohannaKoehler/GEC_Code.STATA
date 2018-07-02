@@ -1,5 +1,5 @@
 
-*** Code to accompany 'Water cultures, user behaviour and institutional change for delivering the water SDG'
+*** Code to accompany 'Institutional pluralism and water user behaviour in rural Africa'.
 *** Includes code for the regression models, the marginal effects calculations and plots. 
 *** The required files that accompany the code are not included here. Those interested in accessing the required files should contact the lead author.
 
